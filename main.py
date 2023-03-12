@@ -1,3 +1,2 @@
-import numpy as np
-
-print("hello,world")
+import os
+os.system('python function_21373408.py')
